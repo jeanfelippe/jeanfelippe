@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Inmetrics**
 
-- 🌱 I’m currently learning **Selenium, Playwright**
+- 🌱 I’m currently learning **Selenium, Playwright, Spring Framework**
 
 - 💬 Ask me about **Programming languages**
 
