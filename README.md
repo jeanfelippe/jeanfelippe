@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Inmetrics**
+- 🔭 I’m currently working on **Keeggo**
 
-- 🌱 I’m currently learning **Selenium, Playwright, Spring Framework**
+- 🌱 I’m currently learning **Robot Framework with Python**
 
 - 💬 Ask me about **Programming languages**
 
